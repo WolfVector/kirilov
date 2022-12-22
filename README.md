@@ -2,7 +2,7 @@
 
 Kirilov was born due to the necesitiy of **installing** packgaes in a remote machine that has no access to internet. The common thing to do is to setup a local environment with the same python version that exists in the remote machine, then you do `pip freeze > requirements.txt` and proceed to migrate all the code and to start installing the packages using the `requirements.txt` file.
 
-**However**, in some cases the remote machine has no access to internet, so you first have to download the packages and install them in the remote server. **Kirilov** is a script that helps you to automate this. It will compare requirements and gives the options to download the recently added. With a simple command you can manage your requirements without much problem.
+**However**, in some cases the remote machine has no access to internet, so you first have to download the packages and install them in the remote server. **Kirilov** is a script that helps you to automate this. It will compare requirements and gives the option to download the recently added. With a simple command you can manage your requirements without much problem.
 
 ## Install
 
