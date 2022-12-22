@@ -12,7 +12,7 @@ Kirilov was born due to the necesitiy of **installing** packgaes in a remote mac
 
 ## Usage
 
-Kirilov receive two inputs: the two inputs in which we are going to do the comparison, it could be a file or data comming from `pip freeze`. Commonly these are the inputs you are going to use: `requirements.txt` and `pip freeze`.
+Kirilov receive two inputs: the two inputs in which we are going to do the comparison, it could be a file or data coming from `pip freeze`. Commonly these are the inputs you are going to use: `requirements.txt` and `pip freeze`.
 
 ### Print new requirements and output them to a file
 
